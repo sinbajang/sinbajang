@@ -6,6 +6,7 @@
 - 📫 How to reach me **ysjangjoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="left">
 <a href="https://instagram.com/wns._.gur93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wns._.gur93" height="30" width="40" /></a>
 </p>
