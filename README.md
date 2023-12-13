@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=cc66cc&height=150&section=header&text=sinbajang&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=cc66cc&height=150&section=header&text=sinbajang&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <h1 align="center">Hi 👋, I'm 장준혁</h1>
 <h3 align="center">A passionate frontend developer from korea</h3>
 
